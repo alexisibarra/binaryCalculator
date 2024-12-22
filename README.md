@@ -1,6 +1,6 @@
 # Binary Calculator
 
-A single binary to integer and viceversa calculator
+A simple binary to integer and viceversa calculator
 
 ## To install
 
